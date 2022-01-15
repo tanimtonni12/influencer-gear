@@ -163,7 +163,7 @@ main{
 }
 
 .second-half-width img{
-    width: 100%;
+    width: 80%;
 }
 
 
@@ -271,18 +271,18 @@ main{
      .paragraph{
          width: 100%;
      }
-     /* .half-width img{
+     .half-width img{
          width: 100%;
  
-     } */
+     }
     
     
      .influencer-items{
          grid-template-columns: repeat(2,1fr);
      }
-     /* .second-half-width img{
+     .second-half-width img{
         width: 100%;
-    } */
+    }
      
  }
 
