@@ -61,11 +61,11 @@ main{
     font-size: 16px;
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
     transition: transform 3s ease-in-out;
 }
 .half-width img:hover{
-    transform: scale(1.2);
+    transform: scale(.7);
    
 }
 
@@ -218,10 +218,10 @@ main{
     .paragraph{
         width: 100%;
     }
-    .half-width img{
+    /* .half-width img{
         width: 100%;
 
-    }
+    } */
     
    
     .influencer-items{
@@ -238,9 +238,9 @@ main{
         margin-bottom: 20px;
         font-size: 14px;
     }
-    .second-half-width img{
+    /* .second-half-width img{
         width: 100%;
-    }
+    } */
     
     
 }
@@ -271,18 +271,18 @@ main{
      .paragraph{
          width: 100%;
      }
-     .half-width img{
+     /* .half-width img{
          width: 100%;
  
-     }
+     } */
     
     
      .influencer-items{
          grid-template-columns: repeat(2,1fr);
      }
-     .second-half-width img{
+     /* .second-half-width img{
         width: 100%;
     }
-     
+      */
  }
 
